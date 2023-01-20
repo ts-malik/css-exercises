@@ -1,0 +1,16 @@
+.both {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.left {
+    background-color: black;
+    color: white;
+    align-content: left;
+}
+
+.right {
+    background-color: yellow;
+    color: black;
+    align-content: right;
+}

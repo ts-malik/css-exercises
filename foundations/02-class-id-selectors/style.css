@@ -1,0 +1,21 @@
+/* color code using hex */
+
+.odd {
+    background-color: #ff6781;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0044ff;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #00ff35;
+    font-size: 24px;
+    font-weight: 700;
+}
